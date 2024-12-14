@@ -9,10 +9,10 @@ Aqui você encontrará dois aplicativos simples, criados com Flutter, que podem 
 É muito fácil! Basta adicionar o nome do projeto no final deste link base:  
 [`https://avristihler.github.io/`](https://avristihler.github.io/)  
 ```
-contador-de-amor
+/contador-de-amor
 ````
 ````
-cor-favorita-app
+/cor-favorita-app
 ````
 
 ---
